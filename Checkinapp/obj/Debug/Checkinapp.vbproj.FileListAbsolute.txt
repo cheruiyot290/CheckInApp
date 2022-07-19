@@ -1,0 +1,13 @@
+C:\Users\cheru\source\repos\Checkinapp\Checkinapp\bin\Debug\Checkinapp.exe.config
+C:\Users\cheru\source\repos\Checkinapp\Checkinapp\bin\Debug\Checkinapp.exe
+C:\Users\cheru\source\repos\Checkinapp\Checkinapp\bin\Debug\Checkinapp.pdb
+C:\Users\cheru\source\repos\Checkinapp\Checkinapp\bin\Debug\Checkinapp.xml
+C:\Users\cheru\source\repos\Checkinapp\Checkinapp\obj\Debug\Checkinapp.vbproj.AssemblyReference.cache
+C:\Users\cheru\source\repos\Checkinapp\Checkinapp\obj\Debug\Checkinapp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cheru\source\repos\Checkinapp\Checkinapp\obj\Debug\Checkinapp.Resources.resources
+C:\Users\cheru\source\repos\Checkinapp\Checkinapp\obj\Debug\Checkinapp.vbproj.GenerateResource.cache
+C:\Users\cheru\source\repos\Checkinapp\Checkinapp\obj\Debug\Checkinapp.vbproj.CoreCompileInputs.cache
+C:\Users\cheru\source\repos\Checkinapp\Checkinapp\obj\Debug\Checkinapp.exe
+C:\Users\cheru\source\repos\Checkinapp\Checkinapp\obj\Debug\Checkinapp.xml
+C:\Users\cheru\source\repos\Checkinapp\Checkinapp\obj\Debug\Checkinapp.pdb
+C:\Users\cheru\source\repos\Checkinapp\Checkinapp\obj\Debug\Checkinapp.Form1.resources
